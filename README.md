@@ -10,11 +10,10 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 
 #### What i work on
-
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?style=flat-square&logo=neovim&logoColor=white)
-![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)**. Omarchy**
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
-
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/archlinux.svg" height="20" alt="Arch Linux"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/kalilinux.svg" height="20" alt="Kali Linux"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/neovim.svg" height="20" alt="Neovim"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/omarchy.svg" height="20" alt="Omarchy"/>
 <!--
 **sgggz217/sgggz217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
