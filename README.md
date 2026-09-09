@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=sgggz217&color=blue&style=flat" />
 
   <p style="font-size: 13px; color: #8b949e; margin-top: 0; margin-bottom: 0;">
-    just fucking around, and finding out
+    fucking around and finding out
   </p>
 
   <p style="font-size: 15px; font-weight: bold; margin-top: 0; margin-bottom: 0;">
