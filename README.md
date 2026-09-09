@@ -1,6 +1,4 @@
-
-
-  <h2 style="margin-bottom: 0;">Soham Ghosh</h2>
+<h2 style="margin-bottom: 0;">Soham Ghosh</h2>
 
   <img src="https://komarev.com/ghpvc/?username=sgggz217&color=blue&style=flat" />
 
