@@ -2,6 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=sgggz217&color=blue&style=flat)
 
+just fucking around, and finding out
+
 #### using
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -10,7 +12,6 @@
 #### IDE/OS i use
 ![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white&labelColor=57A143)
 ![Arch](https://img.shields.io/badge/-Arch-1793D1?style=flat-square&logo=archlinux&logoColor=white&labelColor=1793D1)
-![Kali](https://img.shields.io/badge/-Kali-557C94?style=flat-square&logo=kalilinux&logoColor=white&labelColor=557C94)
 <!--
 **sgggz217/sgggz217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
