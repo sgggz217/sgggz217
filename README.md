@@ -1,14 +1,14 @@
 <div align="center">
 
-  <h2>Soham Ghosh</h2>
+  <h1>Soham Ghosh</h1>
 
   <img src="https://komarev.com/ghpvc/?username=sgggz217&color=blue&style=flat" />
 
-  <h6 style="margin-top: 8px; margin-bottom: 4px; font-weight: normal;">
+  <h6 style="margin-top: 6px; margin-bottom: 3px; font-weight: normal;">
     just fucking around, and finding out
   </h6>
 
-  <h5 style="margin-top: 12px; margin-bottom: 6px; font-weight: normal;">
+  <h5 style="margin-top: 8px; margin-bottom: 4px; font-weight: normal;">
     using
   </h5>
 
@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
   </p>
 
-  <h5 style="margin-top: 12px; margin-bottom: 6px; font-weight: normal;">
+  <h5 style="margin-top: 8px; margin-bottom: 4px; font-weight: normal;">
     IDE/OS i use
   </h5>
 
