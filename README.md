@@ -14,6 +14,7 @@
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?style=flat-square&logo=neovim&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
+![Omarchy](https://img.shields.io/badge/Omarchy-9ece6a?style=flat-square&logo=linux&logoColor=black)
 
 <!--
 **sgggz217/sgggz217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
