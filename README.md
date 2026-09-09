@@ -1,4 +1,4 @@
-<div align="center">
+
 
   <h2 style="margin-bottom: 0;">Soham Ghosh</h2>
 
