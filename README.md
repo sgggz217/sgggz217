@@ -1,15 +1,31 @@
 <div align="center">
 
-  <h2 style="display: inline; margin-right: 6px;">Soham Ghosh</h2>
+  <h2 style="margin-bottom: 0;">Soham Ghosh</h2>
+
   <img src="https://komarev.com/ghpvc/?username=sgggz217&color=blue&style=flat" />
-  <span style="color: #8b949e; font-size: 13px;">· just fucking around, finding out ·</span>
-  <span style="font-weight: bold;">using</span>
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
-  <span style="font-weight: bold;">· IDE/OS</span>
-  <img src="https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white&labelColor=57A143" />
-  <img src="https://img.shields.io/badge/-Arch-1793D1?style=flat-square&logo=archlinux&logoColor=white&labelColor=1793D1" />
+
+  <p style="font-size: 13px; color: #8b949e; margin-top: 0; margin-bottom: 0;">
+    just fucking around, and finding out
+  </p>
+
+  <p style="font-size: 15px; font-weight: bold; margin-top: 0; margin-bottom: 0;">
+    using
+  </p>
+
+  <p style="margin-top: 0; margin-bottom: 0;">
+    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" />
+    <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
+  </p>
+
+  <p style="font-size: 15px; font-weight: bold; margin-top: 0; margin-bottom: 0;">
+    IDE/OS i use
+  </p>
+
+  <p style="margin-top: 0;">
+    <img src="https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white&labelColor=57A143" />
+    <img src="https://img.shields.io/badge/-Arch-1793D1?style=flat-square&logo=archlinux&logoColor=white&labelColor=1793D1" />
+  </p>
 
 </div>
 <!--
