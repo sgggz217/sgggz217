@@ -2,7 +2,11 @@
 
 ![](https://komarev.com/ghpvc/?username=sgggz217&color=blue&style=flat)
 
+## 🛠️ Misc / Tools
+
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 
 <!--
 **sgggz217/sgggz217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
