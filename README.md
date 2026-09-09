@@ -2,12 +2,12 @@
 
 ![](https://komarev.com/ghpvc/?username=sgggz217&color=blue&style=flat)
 
-#### What i use 
+#### using
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 
-#### What i work on
+#### IDE/OS i use
 ![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white&labelColor=57A143)
 ![Arch](https://img.shields.io/badge/-Arch-1793D1?style=flat-square&logo=archlinux&logoColor=white&labelColor=1793D1)
 ![Kali](https://img.shields.io/badge/-Kali-557C94?style=flat-square&logo=kalilinux&logoColor=white&labelColor=557C94)
