@@ -19,7 +19,7 @@
   </p>
 
   <p style="font-size: 15px; font-weight: bold; margin-top: 0; margin-bottom: 0;">
-    IDE/OS i use
+    on
   </p>
 
   <p style="margin-top: 0;">
