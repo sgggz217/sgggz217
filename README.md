@@ -13,9 +13,9 @@
 <p style="margin-top: 0; margin-bottom: 0;">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/ass-6E4C13?style=flat-square&logo=assemblyscript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ass-6E4C13?style=flat-square&logo=assemblyscript&logoColor=white" />
   <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/py-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/Py-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
 </p>
 
 <p style="font-size: 15px; font-weight: bold; margin-top: 0; margin-bottom: 0;">
